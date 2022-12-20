@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adebayodeji
 - 👀 I’m interested in Data Science and Software Engineering
-- 🌱 I’m currently a Master of Science student at the Carnegie Mellon University Africa with my Concentration in applied Machine learning
+- 🌱 I’m a Master of Science graduate from Carnegie Mellon University Africa with my Concentration in applied Machine learning
 - 💞️ I’m looking to collaborate on several Projects in the area of ML and Data Science
 - 📫 How to reach me adebayodeji14@yahoo.com/dadebayo@andrew.cmu.edu
 
